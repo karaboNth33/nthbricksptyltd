@@ -22,7 +22,7 @@ const Products = () => {
       ],
       specifications: [
         "Dimensions: Standard stock brick sizes",
-        "Material: High-quality clay and cement blend",
+        "Material: High-quality concrete blend",
         "Strength: Tested for load-bearing capacity",
         "Finish: Smooth, uniform texture",
       ],
